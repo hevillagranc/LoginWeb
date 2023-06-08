@@ -1,0 +1,17 @@
+-- CONFIGURAR GIT
+
+- GIT STATUS
+- GIT ADD .
+- GIT COMMIT -M "hice tal cambio"
+- GIT PUSH
+
+1.- CREAR REPOSITORY FORMA PUBLIC CON LICENCIA GNU, CON README. 
+
+2.- DESCARGAR CLONADO EL PROYECTO
+    - git clone (dentro de la carpeta) + link de github
+    - git status
+    - git diff (ver diferencia de archivos cambiados)
+    
+git pull trae archivos remotos
+
+cambioe en el sistema
